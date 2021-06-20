@@ -1,0 +1,3 @@
+contains_list=( -h --help -n --needle -s --haystack -i --insensitive -p --position )
+complete -W "$(printf '%s\n' "${contains_list[@]}")" contains
+

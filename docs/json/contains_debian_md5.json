@@ -1,0 +1,9 @@
+{
+	"schemaVersion": 1,
+	"color": "2E9778",
+	"label": "contains.deb MD5",
+	"message": "652266d80b83fb291ed2e3cbf386a3e3",
+	"labelColor": "1d1d1d",
+	"style": "for-the-badge",
+	"namedLogo": "debian"
+}

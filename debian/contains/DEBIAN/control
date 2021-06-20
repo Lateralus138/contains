@@ -1,0 +1,9 @@
+Package: contains
+Version: 1.0.0
+Section: Utilities
+Priority: optional
+Architecture: amd64
+Essential: no
+Installed-Size: 168
+Maintainer: https://github.com/Lateralus138/contains
+Description: Check if a hay[stack] contains a [needle].
